@@ -28,8 +28,3 @@ This is a Streamlit-based web application combining image captioning, language g
 | Web Interface | `Streamlit` |
 
 ---
-
-📦 Storytelling-Application/
-├── app.py           # Main Streamlit application
-├── requirements.txt # Dependencies
-└── README.md        # Project info
