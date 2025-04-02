@@ -2,7 +2,7 @@
 Storytelling-Application
 # 📖 Storytelling Application
 
-Turn your image into a magical children's story — with narration!  
+Turn your image into a magical children's story!  
 This is a Streamlit-based web application combining image captioning, language generation, and TTS.
 
 👉 **[Try it live on Hugging Face Spaces](https://huggingface.co/spaces/Eason918/Storytelling_Application)**
