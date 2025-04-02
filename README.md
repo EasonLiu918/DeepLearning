@@ -29,8 +29,7 @@ This is a Streamlit-based web application combining image captioning, language g
 
 ---
 
-## 🚀 How to Run Locally
-
-```bash
-pip install streamlit transformers gtts Pillow
-streamlit run app.py
+📦 Storytelling-Application/
+├── app.py           # Main Streamlit application
+├── requirements.txt # Dependencies
+└── README.md        # Project info
